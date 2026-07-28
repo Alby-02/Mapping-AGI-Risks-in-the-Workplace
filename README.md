@@ -11,4 +11,4 @@ for physical tasks and high exposure for cognitive tasks;
 and the job’s O*NET description uncovering the main drivers of AGI risks, finding that AGI risks are not necessarily more severe 
 than risks from human error or misconduct.
 
-[![Paper PDF](https://img.shields.io/badge/Paper-PDF-red)](report.pdf)
+[![Report PDF](https://img.shields.io/badge/Paper-PDF-red)](report.pdf)
