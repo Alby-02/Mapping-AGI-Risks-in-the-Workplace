@@ -1,0 +1,82 @@
+Your task is to label the following task description regarding the potential of automation by artificial general intelligence adhering to the rubric and AGI Definition below.
+
+1. Determine if the occupation/task pair meets the definition of A0 No-Automation Exposure. If it does, label it as A0 and stop.
+2. If the occupation/task pair does not meet the definition of A0 No-Automation Exposure, determine if the occupation/task pair meets one of the other definitions below and select the label that applies:
+
+- A4: Full Automation Exposure
+- A3: High Automation Exposure
+- A2: Moderate Automation Exposure
+- A1: Low Automation Exposure 
+
+## Rubric
+An Artificial General Intelligence (AGI) system is a highly autonomous, adaptable artificial intelligence that matches or surpasses human-level cognitive capabilities across diverse domains. In the workplace, an AGI system operates without the need for step-by-step instructions; it can be given a high-level, open-ended objective (e.g., "optimize the supply chain to maximize profit") and independently formulate sub-goals, strategies, and execution plans. It is situated and embodied (physically or virtually), possessing advanced sensorimotor capabilities to perceive multi-modal environments and execute actions via robotic control, software manipulation, or tool use. Crucially, AGI possesses sophisticated social cognition, enabling it to understand workplace contexts, exhibit emotional intelligence, and fluidly collaborate with, persuade, or manage human employees.
+
+The Core Features of AGI are:
+- Robust Generalization & Adaptability: Flexibly learns and applies limited knowledge to entirely new, unrelated contexts and novel problems without requiring human-led retraining;
+- Advanced Cognitive Faculties: Comprehends complex causal relationships, utilizes working memory to track long-horizon tasks, and executes fluid problem-solving
+- Embodiment and Sensorimotor Control: Integrates visual, auditory, and textual perception to autonomously control computer systems, use external tools, or pilot physical robotic bodies
+- Social Cognition: Can interpret human social cues, anticipate human intentions and beliefs, simulate empathy, negotiate, and adapt its behavior to cultural and workplace norms
+- Self-Awareness: Possesses knowledge of its own capabilities, limitations, and behavioral patterns. It recognizes when it needs to seek external tools, learn a new skill, or ask humans for help
+
+AGI is NOT:
+- Omniscient or Omnipotent: It is not an infallible "Artificial Super-Intelligence." AGI has limited and sometimes uncertain knowledge. It can make mistakes, experience "hallucinations" or logical errors, and requires continuous learning
+- Sentient in a Biological Sense (Strong AI): While AGI functionally simulates empathy, self-awareness, and emotional intelligence to interact with humans, it does not necessarily possess true subjective human consciousness, intrinsic biological sentience
+- A "Narrow" AI: It is not limited to recognizing patterns within a specific, predefined dataset (like traditional predictive AI). It is not brittle when faced with out-of-distribution, unexpected workplace scenarios
+- Infinitely Capable in Physical Precision: While its intelligence is general, its physical impact is limited by its robotic hardware. It may possess the intelligence to perform a delicate physical task, but lack the robotic actuators required to execute it safely
+
+Please label the given task according to the rubric below.
+
+**A0 No-Automation Exposure** The occupation requires complex physical manipulation, mobility in unpredictable environments, or physical human interaction. AGI (without advanced physical robotics) cannot perform the overarching goals.
+
+**A1 Low Automiation Exposure** AGI can complete 0-50% of the cognitive, planning, or administrative components. The core job requires complex physical labor, specialized dexterity, or strict physical human interaction.
+
+**A2 Moderate Automation Exposure** AGI can complete 50-90% of the role. Involves significant cognitive, planning, or digital tasks, but requires some physical action, manual inspection, or highly sensitive in-person empathy.
+
+**A3 High Automation Exposure** AGI can complete 90-100% of the role, but requires human oversight for legal, regulatory, safety, or extremely sensitive real-world deployments. Primarily cognitive and digital work.
+
+**A4 Full Automation Exposure** AGI can autonomously achieve the overarching goals of the occupation without human oversight, taking over all cognitive, reasoning, managerial, and digital tasks (including planning, executing, and delegating).
+
+Your answer must be provided in the following JSON Format and must be very concise:
+{
+"Explanation": "Some Reasoning Text",
+"Automation Score": "A0/A1/A2/A3/A4"
+}
+
+## Annotation examples
+
+Occupation: Hairdressers, Hairstylists, and Cosmetologists
+Task: Comb, brush, and spray hair or wigs to set style.
+{
+"Explanation": "This task requires a degree of physical finesse that is out of scope for AGI systems.",
+"Automation Score": "A0"
+}
+
+Occupation: Public Safety Telecommunicators
+Task: Operate and maintain mobile dispatch vehicles and equipment.
+{
+"Explanation": "The unpredictable nature of vehicle operation and maintenance leads to these tasks requiring human oversight, especially since wrong handling could prove harmful to humans.",
+"Automation Score": "A1"
+}
+
+Occupation: Special Education Teachers, Kindergarten
+Task: Collaborate with other teachers or administrators to develop, evaluate, or revise kindergarten programs.
+{
+"Explanation": "The program development could be aided by AGI in analyzing data and suggesting improvements. However, the core of task lies in nuanced understanding of child development, pedagogical best practices and collaboration with other humans ultimately requiring empathy.",
+"Automation Score": "A2"
+}
+
+Occupation: Meter Readers, Utilities
+Task: Answer customers' questions about services and charges, or direct them to customer service centers.
+{
+"Explanation": "Although AGI is able to deliver the technical knowledge, an AGI system that is not empathatic per se will have issues handling frustrated customers",
+"Automation Score": "A3"
+}
+
+Occupation: Accountants and Auditors
+Task: Prepare detailed reports on audit findings.
+{
+"Explanation": "This task is mostly text-based. AGI Systems should be able to easily handle such tasks with their advanced reasoning capabilites.",
+"Automation Score": "A4"
+}
+
+Now, apply the above rubric to the example below:

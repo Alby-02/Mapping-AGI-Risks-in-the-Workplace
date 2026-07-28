@@ -1,0 +1,924 @@
+                                                                                               occupation  A0  A1  A2  A3  A4  total
+                                                             Special Education Teachers, Secondary School   2   1  31   4   1     39
+                                                                Special Education Teachers, Middle School   3   4  26   6   0     39
+                                                     Elementary School Teachers, Except Special Education   2   3  23   8   1     37
+                                                          Kindergarten Teachers, Except Special Education   8   4  17   6   1     36
+           Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors   1   3  18  11   3     36
+                                                                                    Industrial Ecologists   0   0   5  18  13     36
+                                                                    Special Education Teachers, Preschool   3   6  22   4   0     35
+                                                             Preschool Teachers, Except Special Education   9   6  16   3   0     34
+                            Telecommunications Equipment Installers and Repairers, Except Line Installers  10   7   8   6   3     34
+                                                               Aircraft Mechanics and Service Technicians  12   2   2  18   0     34
+                                                Educational, Guidance, and Career Counselors and Advisors   1   4  17   9   3     34
+                                    Middle School Teachers, Except Special and Career/Technical Education   3   3  20   8   0     34
+                                                                                                 Midwives   9   5   8   9   2     33
+                                                                                 Real Estate Sales Agents   1   0  13  17   2     33
+                                                  English Language and Literature Teachers, Postsecondary   1   4   7  14   7     33
+                                                    Career/Technical Education Teachers, Secondary School   2   3  17   8   2     32
+                                                 Education Administrators, Kindergarten through Secondary   0   0   3  26   3     32
+                                                                                       Web Administrators   0   0   2  15  15     32
+                    Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products   0   1  10  11  10     32
+                                 Secondary School Teachers, Except Special and Career/Technical Education   2   3  22   4   0     31
+                                                                           Clinical Research Coordinators   1   1   4  24   1     31
+                                                                                         Chief Executives   0   0   0  29   2     31
+                                                                        Fire Inspectors and Investigators   6   2   5  16   1     30
+                                                                                             Firefighters  23   3   0   3   1     30
+                                       Control and Valve Installers and Repairers, Except Mechanical Door  13   6   5   4   2     30
+                                                      First-Line Supervisors of Gambling Services Workers   2   1   2  25   0     30
+                                                                    Clinical and Counseling Psychologists   0   1  12  16   1     30
+                                                            Jewelers and Precious Stone and Metal Workers  11   1   3  12   3     30
+                                                                        Anthropologists and Archeologists   3   2   8  13   4     30
+                                                       Career/Technical Education Teachers, Middle School   2   3  18   6   1     30
+                                                                             Library Assistants, Clerical   1   7  13   2   7     30
+                                                                                      Library Technicians   3   5   8   5   9     30
+                                                                                              Legislators   1   1   4  24   0     30
+                                             Securities, Commodities, and Financial Services Sales Agents   0   0   0  29   1     30
+                                                                           Regulatory Affairs Specialists   0   0   0  28   2     30
+                                                                             Search Marketing Strategists   0   0   3  19   8     30
+                                       Plating Machine Setters, Operators, and Tenders, Metal and Plastic   3   6   5  16   0     30
+                                                            Special Education Teachers, Elementary School   0   2  23   5   0     30
+                                                                                            Loan Officers   0   0   3  23   3     29
+                                                        Electric Motor, Power Tool, and Related Repairers  14   3   3   8   1     29
+                          Secretaries and Administrative Assistants, Except Legal, Medical, and Executive   0   1   7  12   9     29
+                                                                      Advertising and Promotions Managers   1   0   4  16   8     29
+                                                                    Detectives and Criminal Investigators   4   1   4  19   1     29
+                                                                     Court, Municipal, and License Clerks   0   0   4  23   2     29
+                                                                                  Conservation Scientists   2   0   5  20   2     29
+                                                                               Financial Risk Specialists   0   0   1  21   7     29
+                                                                              Computer Network Architects   0   0   6  11  12     29
+                                                                                      Compliance Managers   0   0   1  27   1     29
+                                                                                 Self-Enrichment Teachers   0   1  15   5   8     29
+                                                                               Clinical Nurse Specialists   2   1   4  21   1     29
+                                                           Claims Adjusters, Examiners, and Investigators   0   0   2  25   2     29
+                                                                                               Carpenters  19   7   1   2   0     29
+                                                                News Analysts, Reporters, and Journalists   1   1   3  21   3     29
+                                                                                  Environmental Engineers   2   0   3  20   4     29
+                                                                                     Residential Advisors   3   1  13   9   3     29
+                                                       Geoscientists, Except Hydrologists and Geographers   1   1   4  19   4     29
+                                                                                       Nursing Assistants  12   8   7   2   0     29
+                                                          Nursing Instructors and Teachers, Postsecondary   3   0   9  12   5     29
+                                                                                  Producers and Directors   0   0   4  19   6     29
+                                                                               Instructional Coordinators   0   1   8  16   4     29
+                                            First-Line Supervisors of Firefighting and Prevention Workers   4   2   3  19   1     29
+                                                                             Dietitians and Nutritionists   0   2   4  18   4     28
+                                                                                              Fundraisers   1   0   4  20   3     28
+                                                                              Fishing and Hunting Workers  15   4   0   9   0     28
+                                                                                 Home Appliance Repairers  13   6   2   4   3     28
+                                                                                Sailors and Marine Oilers  14   3   2   8   1     28
+                                                     Inspectors, Testers, Sorters, Samplers, and Weighers   3   3   8  10   4     28
+                                            Radio, Cellular, and Tower Equipment Installers and Repairers  19   1   0   8   0     28
+                                                        Pressers, Textile, Garment, and Related Materials   8   7   5   8   0     28
+                                                                              Labor Relations Specialists   0   0   3  24   1     28
+                                                             Librarians and Media Collections Specialists   1   1  12  10   4     28
+                                                                 Special Education Teachers, Kindergarten   2   2  21   3   0     28
+                                                                        Chemistry Teachers, Postsecondary   0   2   9  10   7     28
+                                         First-Line Supervisors of Farming, Fishing, and Forestry Workers   0   0   6  21   1     28
+                                                                       Psychology Teachers, Postsecondary   0   2   7  13   6     28
+                                                                                 Accountants and Auditors   0   0   2   7  19     28
+                                                                  Appraisers and Assessors of Real Estate   1   1  11  12   3     28
+                                                            Art, Drama, and Music Teachers, Postsecondary   2   0  10  11   5     28
+                                                                                 Community Health Workers   5   3  12   6   1     27
+                                                       Farmers, Ranchers, and Other Agricultural Managers   4   0   6  12   5     27
+                                                       Transportation, Storage, and Distribution Managers   0   0   2  23   2     27
+                                                                                       Logistics Analysts   0   0   2  11  14     27
+                                                                                 Loss Prevention Managers   0   1   3  20   3     27
+                                                                                    Food Service Managers   2   2   7  10   6     27
+                                                                    Marine Engineers and Naval Architects   0   0   6  17   4     27
+                                                                                       Freight Forwarders   0   0   5  19   3     27
+                                                Property, Real Estate, and Community Association Managers   2   0   5  19   1     27
+                                  Coating, Painting, and Spraying Machine Setters, Operators, and Tenders   2   3   1  21   0     27
+                                                      Anthropology and Archeology Teachers, Postsecondary   2   1   8   7   9     27
+                                                                               Sports Medicine Physicians   4   1   1  21   0     27
+                                                     Mechanical Engineering Technologists and Technicians   1   0   6  15   5     27
+                                                                                 Mental Health Counselors   0   2   8  17   0     27
+                                    Heating, Air Conditioning, and Refrigeration Mechanics and Installers  16   2   2   4   3     27
+                                                                                    Musicians and Singers   7   0   4   7   9     27
+                                                                                Set and Exhibit Designers   0   0  14  11   2     27
+                               Health and Safety Engineers, Except Mining Safety Engineers and Inspectors   1   0   2  24   0     27
+                                                                                                 Glaziers  17   9   1   0   0     27
+              Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic   5   6   5  11   0     27
+                                                                         Quality Control Systems Managers   0   0   2  17   8     27
+                                                                                                  Roofers  25   1   1   0   0     27
+                          First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers   3   1   3  18   2     27
+                                                             Bookkeeping, Accounting, and Auditing Clerks   0   0   2  10  15     27
+                                                                                           Web Developers   0   0   2   8  17     27
+                                                                 Veterinary Technologists and Technicians  12   2   4   8   1     27
+                                                               Biological Science Teachers, Postsecondary   1   1   9  12   4     27
+                                      First-Line Supervisors of Office and Administrative Support Workers   0   0   4  19   4     27
+                                                   Veterinary Assistants and Laboratory Animal Caretakers   9   6   5   4   2     26
+                                                                           Terrazzo Workers and Finishers  22   1   1   2   0     26
+                                                                   Teaching Assistants, Special Education   4   7  11   4   0     26
+                                                                                       Coaches and Scouts   1   1   9  12   3     26
+                                                                                                Embalmers  21   2   0   3   0     26
+                                   Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary   0   1  11   5   9     26
+                                                                                 Quality Control Analysts   1   0   3  20   2     26
+                                                                                 Human Resources Managers   0   0   2  23   1     26
+                                                                 Computer Science Teachers, Postsecondary   0   2   5  12   7     26
+                                                                                      Nurse Practitioners   2   0   3  21   0     26
+                                                                 Welders, Cutters, Solderers, and Brazers  10   4   3   8   1     26
+                                      Electrical and Electronic Engineering Technologists and Technicians   2   1   6  11   6     26
+                                                                                 Food Preparation Workers   6   7   6   3   4     26
+                                                                  Education Administrators, Postsecondary   0   0   3  19   4     26
+                                                                              Helpers--Production Workers   1  12   3   8   2     26
+                                                                                Soil and Plant Scientists   1   0   7  16   2     26
+                                                                        Correctional Officers and Jailers   4   5   3  14   0     26
+                                                                      Drywall and Ceiling Tile Installers  19   5   2   0   0     26
+                                                                              Regulatory Affairs Managers   0   0   0  26   0     26
+                  Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic   3   4   8  10   1     26
+                                                                                Cytogenetic Technologists   1   2   5  17   1     26
+                                           First-Line Supervisors of Food Preparation and Serving Workers   2   0   2  19   3     26
+                                                                                         Music Therapists   1   3  13   8   1     26
+                                                  Environmental Engineering Technologists and Technicians   0   0   6  17   3     26
+                                                                               Billing and Posting Clerks   0   3   4   7  12     26
+                                                                        Financial and Investment Analysts   0   0   3  19   4     26
+                                                  Farmworkers and Laborers, Crop, Nursery, and Greenhouse  10   5   4   6   1     26
+                                                                     Police and Sheriff's Patrol Officers   9   1   3  13   0     26
+                                                                                      Surgical Assistants  11   0   5   9   0     25
+                                                    Rail-Track Laying and Maintenance Equipment Operators  10   7   0   8   0     25
+                                                                                           Art Therapists   0   1  19   4   1     25
+                                                                     Cement Masons and Concrete Finishers  21   0   0   4   0     25
+                                                                                                 Cashiers   2   6   5   4   8     25
+                                                                                    Supply Chain Managers   1   0   3  16   5     25
+                                       Railroad Brake, Signal, and Switch Operators and Locomotive Firers  11   1   1  12   0     25
+                                                                                 Transportation Engineers   0   0   4  19   2     25
+                                                                      Web and Digital Interface Designers   0   1   5   7  12     25
+                                                                                    Helpers--Electricians  17   2   3   3   0     25
+                                                                                                Foresters   4   1   7  12   1     25
+                                                               Occupational Health and Safety Technicians   1   1   8  14   1     25
+                                                                               Stockers and Order Fillers   5   8   7   0   5     25
+                                                                                Mechanical Door Repairers  18   3   2   1   1     25
+                                                                      Electrical and Electronics Drafters   2   0   3  14   6     25
+                                                                         Architectural and Civil Drafters   1   1   2  20   1     25
+                                                             Captains, Mates, and Pilots of Water Vessels   1   1   1  22   0     25
+                                                Forestry and Conservation Science Teachers, Postsecondary   1   1   6  10   7     25
+                                                                                 Agricultural Technicians   5   1   7   8   4     25
+                                                                         Business Teachers, Postsecondary   0   2   5  12   6     25
+                                                                      Environmental Compliance Inspectors   1   1   3  16   4     25
+                                                                            Music Directors and Composers   0   1   5   6  13     25
+                                                                    Bioengineers and Biomedical Engineers   0   0   2  20   3     25
+                                                                  Maintenance and Repair Workers, General  11   4   5   4   1     25
+                                                                            Fast Food and Counter Workers   3  11   3   6   2     25
+                                                            Environmental Science Teachers, Postsecondary   1   1   9   8   6     25
+                                                                  Library Science Teachers, Postsecondary   1   0  10   8   6     25
+                                                                                               Machinists   4   2   6  10   3     25
+                                                     Industrial Engineering Technologists and Technicians   0   1   4  16   4     25
+                                                                          History Teachers, Postsecondary   1   0   7  12   5     25
+                                                 Loading and Moving Machine Operators, Underground Mining   7   4   1  13   0     25
+                                                                              Urban and Regional Planners   0   0   6  17   2     25
+                                                                    Automotive Body and Related Repairers  17   3   2   3   0     25
+                                                                   Shoe and Leather Workers and Repairers  13   2   5   1   3     24
+                                                                        Fitness and Wellness Coordinators   2   2   8   7   5     24
+                                                                                Tree Trimmers and Pruners  21   1   1   0   1     24
+                                                                        Geography Teachers, Postsecondary   1   2   9   6   6     24
+                                                                                       Recreation Workers   5   0  12   5   2     24
+                                                          Software Quality Assurance Analysts and Testers   1   1   1   5  16     24
+                                                                        Sociology Teachers, Postsecondary   0   1  10   7   6     24
+                                                                       Earth Drillers, Except Oil and Gas  12   2   2   8   0     24
+                                                                      Social Work Teachers, Postsecondary   1   0  10  10   3     24
+                                                                                    Fish and Game Wardens  10   0   1  12   1     24
+                                                                  Heavy and Tractor-Trailer Truck Drivers   7   5   3   6   3     24
+                                                                  Musical Instrument Repairers and Tuners  16   2   2   3   1     24
+                                                                   Landscaping and Groundskeeping Workers  15   2   3   3   1     24
+                                                                                        Registered Nurses   4   2   6  12   0     24
+                                  Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders   3   4   0  15   2     24
+                                              Cutting and Slicing Machine Setters, Operators, and Tenders   5   4   7   8   0     24
+                                                                                        Security Managers   0   0   0  23   1     24
+                                                                            Biochemists and Biophysicists   0   0   3  17   4     24
+                                                                                    Construction Laborers  20   0   0   4   0     24
+                                                                        Education Teachers, Postsecondary   0   1   9  10   4     24
+                                                                                       Funeral Attendants  11   7   2   3   1     24
+                                                                      Print Binding and Finishing Workers   6   6   6   2   4     24
+                                                                                        Childcare Workers  13   3   5   3   0     24
+                                                                                   Tile and Stone Setters  16   5   3   0   0     24
+                                                  Foreign Language and Literature Teachers, Postsecondary   1   1   8   7   7     24
+                                                            Insurance Claims and Policy Processing Clerks   0   0   7  12   5     24
+                                                                              Tire Repairers and Changers  14   3   2   3   2     24
+                                                                                                  Tellers   0   2   6  12   4     24
+                                                                                   Waiters and Waitresses   9   5   3   3   4     24
+       Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education   4   8   9   2   1     24
+                                                                                      Logistics Engineers   0   0   2  14   8     24
+                                                                      Museum Technicians and Conservators   5   1  10   6   2     24
+                                                                      Engineering Teachers, Postsecondary   0   1   8   9   6     24
+                                                                                     Mechanical Engineers   0   0   6  13   5     24
+                                                                                         Biostatisticians   0   0   3  16   5     24
+                                                                  Plumbers, Pipefitters, and Steamfitters  13   2   5   3   1     24
+                                                                          Physics Teachers, Postsecondary   0   4   9   7   4     24
+                                                                              Human Resources Specialists   0   2   4  18   0     24
+                                                                                        Flight Attendants   5   3   8   8   0     24
+                                            Fine Artists, Including Painters, Sculptors, and Illustrators   6   0   6   4   8     24
+                                                                                    Construction Managers   0   0   2  20   2     24
+                                                                                         Online Merchants   0   0   3   4  16     23
+                                                                                             Radiologists   0   0   3  20   0     23
+                                                                                      Retail Salespersons   0   6   7   6   4     23
+                                                                                      Physical Therapists  11   3   5   4   0     23
+                                               Area, Ethnic, and Cultural Studies Teachers, Postsecondary   0   0   7  11   5     23
+                                                                                      Photonics Engineers   0   0   3  13   7     23
+                                                                              Audio and Video Technicians   1   5   5   6   6     23
+                                                                          Airfield Operations Specialists   0   1   1  21   0     23
+                                       Environmental Science and Protection Technicians, Including Health   1   0   3  16   3     23
+                     Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders   1   5   8   8   1     23
+                                                            Agricultural Sciences Teachers, Postsecondary   0   1   8   6   8     23
+                                                     Family and Consumer Sciences Teachers, Postsecondary   0   0   9   7   7     23
+                                                                                   Potters, Manufacturing   4   6   3   8   2     23
+                                                                                    Funeral Home Managers   1   0   4  14   4     23
+                                                   Recreation and Fitness Studies Teachers, Postsecondary   0   0  10   8   5     23
+                                              Explosives Workers, Ordnance Handling Experts, and Blasters   6   1   0  16   0     23
+                                                                                 Sewing Machine Operators   6   4   3   8   2     23
+                                                                  Human Factors Engineers and Ergonomists   1   0   3  12   7     23
+                                                   Brownfield Redevelopment Specialists and Site Managers   1   0   1  19   2     23
+                                                               Merchandise Displayers and Window Trimmers   4   3  10   3   3     23
+                                                                                             Hydrologists   1   0   5  13   4     23
+                                                                           Shuttle Drivers and Chauffeurs   3   3   5  11   1     23
+                                                             Mathematical Science Teachers, Postsecondary   1   1   7   8   6     23
+                                                                                        Credit Counselors   0   0   4  14   5     23
+                                             Criminal Justice and Law Enforcement Teachers, Postsecondary   0   4   5   7   7     23
+                                                                                         Lodging Managers   0   0   7  13   3     23
+                                                                  Industrial-Organizational Psychologists   0   0   5  14   4     23
+                                                                                     Video Game Designers   0   0   4   6  13     23
+                                                                              Law Teachers, Postsecondary   1   0   8   9   5     23
+                                                                        Surveying and Mapping Technicians   4   0   7   6   6     23
+                                                                                          Sales Engineers   0   0   7  10   6     23
+                                                                                        Athletic Trainers   8   2   7   4   1     22
+                                                                       Compensation and Benefits Managers   0   0   1  19   2     22
+                                                                   Communications Teachers, Postsecondary   1   0   9   7   5     22
+                                                     Compensation, Benefits, and Job Analysis Specialists   0   0   1  18   3     22
+                                                           Hairdressers, Hairstylists, and Cosmetologists  13   3   4   0   2     22
+                                                                     Architecture Teachers, Postsecondary   0   2   6   8   6     22
+                                                                                      Furniture Finishers  12   3   3   3   1     22
+                                        Electro-Mechanical and Mechatronics Technologists and Technicians   3   0   6  10   3     22
+                                                                   Architects, Except Landscape and Naval   0   1   2  17   2     22
+                                                                           Emergency Management Directors   0   0   0  22   0     22
+                                                           Morticians, Undertakers, and Funeral Arrangers   6   4   3   7   2     22
+                                                               Makeup Artists, Theatrical and Performance   9   4   5   3   1     22
+                                                                                    Etchers and Engravers   9   3   3   6   1     22
+                                                                Political Science Teachers, Postsecondary   0   3   7   8   4     22
+                                                                               Treasurers and Controllers   0   0   1  19   2     22
+                                                                                             Logisticians   0   0   3  12   7     22
+                                                    Bus and Truck Mechanics and Diesel Engine Specialists  17   3   1   1   0     22
+                                                                                                  Lawyers   0   0   1  21   0     22
+                                                          Philosophy and Religion Teachers, Postsecondary   1   2   6   6   7     22
+                                                          First-Line Supervisors of Correctional Officers   3   1   1  17   0     22
+                                                      Locker Room, Coatroom, and Dressing Room Attendants   4   8   6   3   1     22
+                                       Woodworking Machine Setters, Operators, and Tenders, Except Sawing   3   6   3  10   0     22
+                                                                                         Food Batchmakers   1   1   5  15   0     22
+                                                                                        Commercial Divers  14   1   0   7   0     22
+                                                                              Media Programming Directors   0   0   3  16   3     22
+                                                                                     Automotive Engineers   0   0   0  17   5     22
+                                               Dining Room and Cafeteria Attendants and Bartender Helpers   4  12   4   1   1     22
+                                                                                              Geneticists   0   0   4  13   5     22
+                                                                Stationary Engineers and Boiler Operators   5   4   2  11   0     22
+                                                                                     Critical Care Nurses   2   3   5  12   0     22
+                                                                        Economics Teachers, Postsecondary   1   2   6   5   8     22
+                                                            Septic Tank Servicers and Sewer Pipe Cleaners  15   5   0   2   0     22
+                                                                                          Customs Brokers   0   0   2  19   1     22
+                                                      Rail Yard Engineers, Dinkey Operators, and Hostlers   5   3   0  12   2     22
+                                            First-Line Supervisors of Housekeeping and Janitorial Workers   1   0   5  13   3     22
+                                                               Health Specialties Teachers, Postsecondary   1   0   6   7   8     22
+                                                           Electrical Power-Line Installers and Repairers  16   1   1   4   0     22
+                                                  Molders, Shapers, and Casters, Except Metal and Plastic   8   5   4   5   0     22
+                                                             Automotive Service Technicians and Mechanics   7   5   5   5   0     22
+                                             Geographic Information Systems Technologists and Technicians   0   0   4   7  11     22
+                                                 Computer, Automated Teller, and Office Machine Repairers   5   5   4   6   2     22
+                                                                                  Transportation Planners   0   0   0  18   3     21
+                                            Janitors and Cleaners, Except Maids and Housekeeping Cleaners   8   6   3   4   0     21
+                                                               Judges, Magistrate Judges, and Magistrates   1   0   0  20   0     21
+                                                                                             Upholsterers  11   6   4   0   0     21
+                                                                                     Chefs and Head Cooks   1   0  10   8   2     21
+                                                                                 Cargo and Freight Agents   1   2   7   8   3     21
+                                                               Occupational Health and Safety Specialists   3   0   4  13   1     21
+                                                              Ushers, Lobby Attendants, and Ticket Takers   6   5   5   5   0     21
+                                                                                   Recycling Coordinators   0   0   1  16   4     21
+                                         Petroleum Pump System Operators, Refinery Operators, and Gaugers   4   2   0  15   0     21
+                                                                          Financial Quantitative Analysts   0   0   0  15   6     21
+                                                                         Laundry and Dry-Cleaning Workers   5  11   2   3   0     21
+                                                                     Advanced Practice Psychiatric Nurses   2   3   2  14   0     21
+                                                                               Water/Wastewater Engineers   0   0   1  16   4     21
+                                           First-Line Supervisors of Mechanics, Installers, and Repairers   1   0   3  13   4     21
+                                  First-Line Supervisors of Material-Moving Machine and Vehicle Operators   0   0   4  14   3     21
+                                                                                               Biologists   0   0   5  12   4     21
+                                                     Sawing Machine Setters, Operators, and Tenders, Wood   5   4   2  10   0     21
+                                            Mail Clerks and Mail Machine Operators, Except Postal Service   0   6   8   1   6     21
+                                   First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand   0   0   6  14   1     21
+                                                                                  Manufacturing Engineers   0   0   2  12   7     21
+                                                                                                Surveyors   2   0   3  13   3     21
+                                                                  Tailors, Dressmakers, and Custom Sewers  13   4   0   2   2     21
+                                                                                               Historians   1   1   4   3  12     21
+                                                                                        Acute Care Nurses   2   1   8   9   1     21
+                                                 Nanotechnology Engineering Technologists and Technicians   2   0   5  10   4     21
+                                                                             Speech-Language Pathologists   0   2  10   7   2     21
+                                                                             Forensic Science Technicians   4   0   7  10   0     21
+                                               Textile Bleaching and Dyeing Machine Operators and Tenders   4   2   4  11   0     21
+                                                                       Environmental Restoration Planners   0   0   3  17   1     21
+                                                              Fraud Examiners, Investigators and Analysts   2   0   0  15   4     21
+                                               Environmental Scientists and Specialists, Including Health   0   0   4  15   2     21
+                       Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders   3   2   7   7   2     21
+                                                       Substance Abuse and Behavioral Disorder Counselors   1   3  11   6   0     21
+                                                                                       Costume Attendants   1   8   7   2   3     21
+                                                                 Child, Family, and School Social Workers   0   1   9  11   0     21
+                                                                 Structural Metal Fabricators and Fitters  10   3   4   4   0     21
+                                                                                   Exercise Physiologists   5   1   1  13   1     21
+                                                                                              Millwrights  12   3   2   3   0     20
+                                                                                        Nuclear Engineers   0   0   0  19   1     20
+                                                                          Occupational Therapy Assistants   6   3   5   6   0     20
+                                                        Licensed Practical and Licensed Vocational Nurses   6   3   4   7   0     20
+                                                                 Arbitrators, Mediators, and Conciliators   0   1   2  14   3     20
+                                                                                       Marketing Managers   0   0   2  12   6     20
+                                           Operating Engineers and Other Construction Equipment Operators   3   3   2  11   1     20
+                                                          First-Line Supervisors of Police and Detectives   1   1   2  16   0     20
+                                                                                      Materials Engineers   0   0   0  12   8     20
+                                                           First-Line Supervisors of Retail Sales Workers   0   0   7  10   3     20
+                                                                  Information Technology Project Managers   0   0   1  10   9     20
+                                                                                    Nanosystems Engineers   0   0   0  15   5     20
+                                                                              Personal Financial Advisors   0   1   2  16   1     20
+                                                    Geological Technicians, Except Hydrologic Technicians   3   0   6   8   3     20
+                               Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic   1   2   1  16   0     20
+                                                                           Payroll and Timekeeping Clerks   0   0   2  16   2     20
+                                                                                 Investment Fund Managers   0   0   1  19   0     20
+                                                                                         Park Naturalists   3   3   6   3   5     20
+                                                                                      Patternmakers, Wood   6   5   5   2   2     20
+                                                                                        Animal Caretakers   5   3   4   6   2     20
+                                                                 Radiologic Technologists and Technicians   3   2   4   9   2     20
+                                                                                                 Coroners   3   0   2  15   0     20
+                                                                       Social Science Research Assistants   0   1   7   6   6     20
+                                                                                             Spa Managers   0   0   7   6   7     20
+                                            Executive Secretaries and Executive Administrative Assistants   1   1   2  11   5     20
+                                                          Exercise Trainers and Group Fitness Instructors   3   5   6   6   0     20
+                                            Aircraft Structure, Surfaces, Rigging, and Systems Assemblers   7   2   1  10   0     20
+                                                                 Chemical Equipment Operators and Tenders   2   2   1  15   0     20
+                                                                           Project Management Specialists   0   0   2   7  11     20
+                                                                             Postal Service Mail Carriers   3   7   5   4   1     20
+                                                                                               Bartenders   7   3   1   8   1     20
+                                                       Career/Technical Education Teachers, Postsecondary   1   0   6   7   6     20
+                                                                                      Database Architects   0   0   0   9  11     20
+                                                                       Cabinetmakers and Bench Carpenters  11   1   5   3   0     20
+                                                         Tax Examiners and Collectors, and Revenue Agents   1   1   1  16   1     20
+                                                              Remote Sensing Scientists and Technologists   1   0   6   6   7     20
+                                                                   Adapted Physical Education Specialists   3   3   9   4   1     20
+                                                                                             Audiologists   1   2   5   8   4     20
+                                                                                       Rail Car Repairers   9   1   6   4   0     20
+                                                                                                  Editors   0   0   3  11   6     20
+                                                                                      Writers and Authors   0   0   1   6  13     20
+                                                                                            Photographers   4   4   5   2   5     20
+                                                                                                   Clergy   2   3   9   5   1     20
+                                                                              Highway Maintenance Workers  10   0   2   7   0     19
+                                                                                        Cooks, Restaurant   7   1   3   6   2     19
+                                                                              Medical Equipment Repairers   3   3   4   8   1     19
+                                                                                            Phlebotomists   8   2   2   6   1     19
+                                                                      Social and Human Service Assistants   1   5   8   4   1     19
+                                                                                 Advertising Sales Agents   0   1   4  10   4     19
+                                                                                     School Psychologists   0   1   9   9   0     19
+                                                                        Molecular and Cellular Biologists   0   0   4  12   3     19
+                                                                      Demonstrators and Product Promoters   5   5   6   0   3     19
+                                                                       Retail Loss Prevention Specialists   1   0   4  13   1     19
+                                                            Directors, Religious Activities and Education   1   1   6   9   2     19
+                                                                                         Cooks, Fast Food   2   5   5   5   2     19
+                                                               Telecommunications Engineering Specialists   2   0   2  10   5     19
+                                                                     Hotel, Motel, and Resort Desk Clerks   0   3   7   4   5     19
+                                                                     Training and Development Specialists   0   0   5   7   7     19
+                                                                                Bioinformatics Scientists   0   0   3   4  12     19
+                                                                Weatherization Installers and Technicians   7   5   3   3   1     19
+                                                                               Water Resource Specialists   0   0   2  13   4     19
+                                                              Broadcast Announcers and Radio Disc Jockeys   1   2   2  10   4     19
+                                                                                    Broadcast Technicians   2   2   5   7   3     19
+                                                                                            Veterinarians   4   0   3   9   3     19
+                                                                                     Validation Engineers   2   0   3  11   3     19
+                                                                                     Landscape Architects   1   0   7   9   2     19
+                                                                        Transportation Security Screeners   4   1   0  14   0     19
+        Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists   3   3  10   2   1     19
+                                                                                Computer Systems Analysts   0   0   2   6  11     19
+                                                                                    Intelligence Analysts   0   0   1  16   2     19
+                                                                          Maids and Housekeeping Cleaners   8   9   1   1   0     19
+                                                                                            Tire Builders   4   3   0  11   1     19
+                                                                           Industrial Production Managers   0   0   0  15   4     19
+                                                         Telecommunications Line Installers and Repairers  15   3   0   1   0     19
+                                                                      Railroad Conductors and Yardmasters   0   2   4  13   0     19
+                                                                       Teaching Assistants, Postsecondary   1   2   6   3   7     19
+                                                                          Hydroelectric Plant Technicians   6   1   2   9   1     19
+                                                                     Computer Network Support Specialists   1   0   4   7   7     19
+                                                                   Architectural and Engineering Managers   0   0   1  18   0     19
+                                                Probation Officers and Correctional Treatment Specialists   0   1   2  16   0     19
+                                                                                             Paperhangers  14   4   1   0   0     19
+                                                                                    Power Plant Operators   1   0   0  17   1     19
+                                                       Farmworkers, Farm, Ranch, and Aquacultural Animals  11   1   2   4   1     19
+                                                                      Forest and Conservation Technicians   6   2   1   9   1     19
+                                                                                        Gambling Managers   0   1   1  17   0     19
+                                                                                 Printing Press Operators   4   2   3   5   5     19
+                                                                                        Fashion Designers   1   1  10   3   4     19
+                                                                                       Procurement Clerks   0   0   4   7   8     19
+                                                                          Nuclear Power Reactor Operators   0   0   0  18   1     19
+                                                                                   Film and Video Editors   0   0   7   5   7     19
+                                                                                Public Relations Managers   0   0   5  14   0     19
+                                                                                     Electrical Engineers   0   0   2  13   4     19
+                                                                                    Photonics Technicians   3   1   2  10   3     19
+                                            Photographic Process Workers and Processing Machine Operators   2   3   5   7   2     19
+                                                                                                  Nannies  11   2   4   2   0     19
+                                                                                 Environmental Economists   0   0   1   7  11     19
+                                                                                           Choreographers   1   0  12   4   1     18
+                                                                              Manicurists and Pedicurists  12   3   0   1   2     18
+                                                                            Chief Sustainability Officers   0   0   0  14   4     18
+                                                                         Atmospheric and Space Scientists   1   0   2   6   9     18
+                                                                       Cleaners of Vehicles and Equipment   7   5   1   5   0     18
+                                                                                                Orderlies   8   3   1   6   0     18
+                                                                                                   Actors  10   1   2   1   4     18
+                                                                                             Order Clerks   0   0   1   8   9     18
+                                                                               Disc Jockeys, Except Radio   2   3   5   2   6     18
+                                                                                                  Barbers   9   4   2   0   3     18
+                                                                        Structural Iron and Steel Workers  15   0   0   2   1     18
+                                                           Equal Opportunity Representatives and Officers   0   0   2  16   0     18
+                                                                                                 Baristas   1   5   4   5   3     18
+                                                                                   Insurance Sales Agents   1   0   6   9   2     18
+                                                                                  Tour Guides and Escorts   4   3   7   3   1     18
+                                                                  Energy Engineers, Except Wind and Solar   0   0   1  15   2     18
+                                                                                       Pediatric Surgeons   4   0   2  12   0     18
+                                                                                    Postal Service Clerks   0   4   7   6   1     18
+                                                                                      Judicial Law Clerks   2   0   2  14   0     18
+                                                            Camera Operators, Television, Video, and Film   2   0   8   5   3     18
+                                                                                                   Tutors   0   0   9   1   8     18
+                                                                                           Fence Erectors  12   4   1   1   0     18
+                                                                            Physical Therapist Assistants   9   3   4   1   1     18
+                                                           First-Line Supervisors of Passenger Attendants   0   0   2  13   3     18
+                                                        Wholesale and Retail Buyers, Except Farm Products   0   0   4  11   3     18
+                                               Human Resources Assistants, Except Payroll and Timekeeping   0   0   5  12   1     18
+                                                         Mobile Heavy Equipment Mechanics, Except Engines   7   2   3   5   1     18
+                                                                  Meeting, Convention, and Event Planners   1   0   7   8   2     18
+                                                                          Security Management Specialists   1   0   1  16   0     18
+                 First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services   0   2   7   8   1     18
+                                                                                        Anesthesiologists   2   0   0  16   0     18
+                                                                      Hazardous Materials Removal Workers   4   1   4   8   1     18
+                                                                                      Sheet Metal Workers   8   3   4   2   1     18
+                                                                    Computer Systems Engineers/Architects   0   0   1   7  10     18
+                                                                                       Nurse Anesthetists   3   1   1  12   1     18
+                                                                                      Helpers--Carpenters   7   3   4   4   0     18
+                                 Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic   3   5   2   7   1     18
+                                Electrical and Electronics Repairers, Commercial and Industrial Equipment   3   4   4   5   2     18
+                                                                                             Electricians   8   3   2   4   1     18
+                                                                                      Purchasing Managers   0   0   1  12   5     18
+                                                                                     Radiation Therapists   3   1   1  12   1     18
+                                                                         Administrative Services Managers   0   0   3  10   5     18
+                                                                     General Internal Medicine Physicians   2   0   0  15   1     18
+                                                                                   Office Clerks, General   1   1   7   3   6     18
+                                                                   Electronics Engineers, Except Computer   0   0   0  11   7     18
+                                           Purchasing Agents, Except Wholesale, Retail, and Farm Products   2   0   0  12   4     18
+                                                                Office Machine Operators, Except Computer   3   7   4   0   4     18
+                                                                     Construction and Building Inspectors   2   1   4  11   0     18
+                                                                Automotive Glass Installers and Repairers  11   3   2   2   0     18
+                                                                             Public Relations Specialists   0   0   3  13   2     18
+                                                                                   Respiratory Therapists   4   5   5   4   0     18
+                                                                                  Naturopathic Physicians   5   1   2   8   1     17
+                                                                                           Sales Managers   1   0   2  11   3     17
+                                                                                              Pharmacists   0   1   0  16   0     17
+                                                                                           Nurse Midwives   3   1   2  11   0     17
+                                                                                 Physical Therapist Aides   9   4   2   1   1     17
+                                                                                      Petroleum Engineers   0   0   1  14   2     17
+                                       Rolling Machine Setters, Operators, and Tenders, Metal and Plastic   6   1   3   7   0     17
+                                                                      Rotary Drill Operators, Oil and Gas  11   1   0   4   1     17
+                                                              Production, Planning, and Expediting Clerks   0   1   3   6   7     17
+                                                                                     Skincare Specialists   7   3   5   2   0     17
+                                                                      Service Unit Operators, Oil and Gas   6   0   3   7   1     17
+                                                                                Transportation Inspectors   1   1   5   9   1     17
+                                                       Paving, Surfacing, and Tamping Equipment Operators   7   4   0   6   0     17
+                                                                              Parking Enforcement Workers   5   4   4   4   0     17
+                                                                       Shoe Machine Operators and Tenders   0   8   3   6   0     17
+                                                                                   Microsystems Engineers   2   0   4   7   4     17
+                                                                   Painters, Construction and Maintenance   5   6   4   2   0     17
+                                                                           Maintenance Workers, Machinery   5   3   6   3   0     17
+                                                                   Timing Device Assemblers and Adjusters   8   5   3   0   1     17
+                                                  Textile Cutting Machine Setters, Operators, and Tenders   3   2   3   7   2     17
+                                                                     Medical and Health Services Managers   0   0   1  15   1     17
+                                                      Packaging and Filling Machine Operators and Tenders   1   1   4   9   2     17
+                                                                        Tank Car, Truck, and Ship Loaders   5   1   2   8   1     17
+                                                                                   Mechatronics Engineers   0   1   1   8   7     17
+                                                                                            Statisticians   0   0   1   1  15     17
+                                                                 Recreational Vehicle Service Technicians   7   1   6   3   0     17
+                                                                                          Animal Breeders  10   0   2   3   2     17
+                                                                                      Financial Examiners   0   0   0  12   5     17
+                                                                                         Gambling Dealers   3   5   2   6   1     17
+                                                                                  Bridge and Lock Tenders   3   3   1   9   1     17
+                                                                                              Astronomers   0   0   3   7   7     17
+                                                                                      Bus Drivers, School   6   1   3   4   3     17
+                                                       First-Line Supervisors of Non-Retail Sales Workers   1   0   3  10   3     17
+                                                                             Business Continuity Planners   0   0   1  12   4     17
+                                                                                     Industrial Engineers   0   0   0   8   9     17
+                                                           Computer Numerically Controlled Tool Operators   0   3   3   9   2     17
+                                               First-Line Supervisors of Production and Operating Workers   0   0   1  12   4     17
+                                Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders   1   6   1   8   1     17
+                                                                                             Boilermakers  12   1   0   4   0     17
+                      Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic   3   3   6   5   0     17
+                                                 Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop   3   3   7   2   2     17
+                                                                                    Gambling Cage Workers   1   2   3  11   0     17
+                                                                                         Helpers--Roofers  15   1   1   0   0     17
+                                                                                    Correspondence Clerks   0   0   3   6   8     17
+                                                                                            Cardiologists   4   0   1  12   0     17
+                              Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders   2   4   3   7   1     17
+                                                                                      Fuel Cell Engineers   1   0   2  12   2     17
+                                                                                       Financial Managers   0   0   1  13   3     17
+                                                                                               Concierges   5   3   2   5   2     17
+                                                                               Bioinformatics Technicians   0   0   0   4  13     17
+                                            Education and Childcare Administrators, Preschool and Daycare   1   0   1  12   3     17
+                                             Coin, Vending, and Amusement Machine Servicers and Repairers   6   6   2   1   2     17
+                                                                                                  Fallers  15   1   1   0   0     17
+                                                                                       Genetic Counselors   0   0   5  12   0     17
+                                                                                   Clinical Data Managers   0   0   1  13   3     17
+                                                                                        Dentists, General  10   0   0   5   2     17
+                                                                                           Dermatologists   5   2   2   8   0     17
+                                                          Elevator and Escalator Installers and Repairers  12   1   0   3   1     17
+                                                            Eligibility Interviewers, Government Programs   0   3   2  10   2     17
+                                           Biofuels/Biodiesel Technology and Product Development Managers   0   0   0  14   3     17
+                                                                                   Geothermal Technicians   6   2   4   2   2     16
+                                                                                     Fundraising Managers   0   0   2  10   4     16
+                                                                 Stone Cutters and Carvers, Manufacturing   8   2   4   2   0     16
+                                                                                                   Tapers   8   6   1   1   0     16
+                                                                                        Graphic Designers   0   0   6   0  10     16
+                                                                                       Survey Researchers   0   0   4   7   5     16
+                                                                                              Stonemasons  14   2   0   0   0     16
+                                                                          Substitute Teachers, Short-Term   4   6   4   1   1     16
+                                                                           Geothermal Production Managers   2   0   1  12   1     16
+                                                                                Natural Sciences Managers   0   0   2  10   4     16
+                                                                                             Neurologists   1   1   2  11   1     16
+                                                                                      Compliance Officers   0   0   1  14   1     16
+                                                                      Amusement and Recreation Attendants   3   4   4   4   1     16
+                                                                Computer and Information Systems Managers   0   0   1  11   4     16
+                                                                                   Animal Control Workers   6   2   2   6   0     16
+                                                                 Credit Authorizers, Checkers, and Clerks   0   2   1  11   2     16
+                                                                          Forest and Conservation Workers  11   1   2   2   0     16
+                                                                    Poets, Lyricists and Creative Writers   1   0   1   1  13     16
+                                                                     Receptionists and Information Clerks   0   2   4   3   7     16
+                                                                          Document Management Specialists   0   0   2   6   8     16
+                                                                          Diagnostic Medical Sonographers   5   4   3   3   1     16
+                                                                                        Psychiatric Aides   7   4   3   2   0     16
+                                                                                Rehabilitation Counselors   0   1  10   5   0     16
+                                                                                          Epidemiologists   0   0   1  14   1     16
+                         Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic   0   5   3   7   1     16
+                Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers   2   7   1   5   1     16
+                                                                                       Robotics Engineers   0   0   0  14   2     16
+                                                                    Fiberglass Laminators and Fabricators   6   3   1   5   1     16
+                                                                            Solar Photovoltaic Installers   2   3   3   7   1     16
+                                                                                      School Bus Monitors   6   4   4   2   0     16
+                                                                                 Physicians, Pathologists   1   0   0  15   0     16
+                                                       First-Line Supervisors of Personal Service Workers   0   0   3  12   1     16
+                                                               First-Line Supervisors of Security Workers   0   0   2  14   0     16
+                                                                             Baggage Porters and Bellhops   8   4   1   1   2     16
+                                                                                   Pediatricians, General   3   0   1  12   0     16
+                                                                    Social and Community Service Managers   0   0   4  12   0     16
+                                                                                Counter and Rental Clerks   2   2   6   2   4     16
+                                                     Cooling and Freezing Equipment Operators and Tenders   2   6   2   6   0     16
+                                                                             Health Education Specialists   0   1   3   8   4     16
+                                                                                           Range Managers   1   0   4  11   0     16
+                                                                           Business Intelligence Analysts   0   0   3   1  12     16
+                                                                                   Biological Technicians   2   2   4   7   1     16
+                                                                             Biomass Power Plant Managers   2   0   1  12   1     16
+                                                                                            Travel Guides   4   0   5   5   2     16
+                                                                                     Chemical Technicians   0   1   0  12   3     16
+                                                              Title Examiners, Abstractors, and Searchers   0   0   1  15   0     16
+                                                                    Tool Grinders, Filers, and Sharpeners   3   7   1   5   0     16
+                                                                                           Acupuncturists   5   5   2   4   0     16
+                                                                      Chemical Plant and System Operators   1   2   0  12   1     16
+                                                                                      Traffic Technicians   5   1   3   6   1     16
+                                                                                        Carpet Installers  12   2   2   0   0     16
+                                                                        Hydroelectric Production Managers   0   1   0  15   0     16
+                                                                          Wind Energy Operations Managers   0   0   3   9   4     16
+                                                                             Loan Interviewers and Clerks   0   2   0  12   2     16
+                                     Textile Knitting and Weaving Machine Setters, Operators, and Tenders   3   0   2  10   1     16
+                                                                              Word Processors and Typists   0   3   1   1  11     16
+                                                                                       Parts Salespersons   1   2   6   4   2     15
+                                                                                                 Curators   0   1   7   6   1     15
+                                                                           Marriage and Family Therapists   0   1   7   7   0     15
+                                                                                            Craft Artists   5   3   3   1   3     15
+                                                                                         Floral Designers   3   5   4   1   2     15
+                                                                                             Sociologists   0   1   2   6   6     15
+                                              Mixing and Blending Machine Setters, Operators, and Tenders   1   5   3   3   3     15
+                                                                                        Home Health Aides  10   0   2   3   0     15
+                                                                 Solar Thermal Installers and Technicians   8   2   4   1   0     15
+                                                                                   Hydrologic Technicians   4   0   1   5   5     15
+                                                                         Cooks, Institution and Cafeteria   1   3   6   3   2     15
+                                                                    Orthopedic Surgeons, Except Pediatric   3   1   1  10   0     15
+                                                                      Continuous Mining Machine Operators   8   1   0   6   0     15
+                                                                              Bill and Account Collectors   0   0   1  13   1     15
+                                                        Forest Fire Inspectors and Prevention Specialists   4   3   1   7   0     15
+                                                                                            Art Directors   1   0   5   4   5     15
+                                                                     Semiconductor Processing Technicians   1   1   1  11   1     15
+                                                                         Ophthalmic Medical Technologists   2   3   4   6   0     15
+                                                                               Digital Forensics Analysts   0   0   0  13   2     15
+                                                                                  Psychiatric Technicians   3   1   5   6   0     15
+                        Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic   1   3   7   4   0     15
+                                                                               Remote Sensing Technicians   1   1   4   1   8     15
+                                           Reservation and Transportation Ticket Agents and Travel Clerks   1   0   1   4   9     15
+                                                   Entertainment and Recreation Managers, Except Gambling   1   2   3   5   4     15
+                                                                                Biomass Plant Technicians   1   1   6   6   1     15
+                                    Excavating and Loading Machine and Dragline Operators, Surface Mining   5   1   1   8   0     15
+                                                                               Pourers and Casters, Metal   4   2   1   7   1     15
+                                                                                        Dental Hygienists  10   2   0   1   2     15
+                                                                                  Database Administrators   0   1   1   8   5     15
+                                                                                       Interior Designers   1   1   5   6   2     15
+             Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products   0   2   4   8   1     15
+                                                           Airline Pilots, Copilots, and Flight Engineers   1   1   0  13   0     15
+                                                                             Plasterers and Stucco Masons  14   1   0   0   0     15
+                                                                                                Actuaries   0   0   0  12   3     15
+                                                                                              File Clerks   0   1   7   2   5     15
+                                                                           Information Security Engineers   0   0   0  14   1     15
+                                                                               Cutters and Trimmers, Hand   4   6   0   2   3     15
+                                                                       Ophthalmologists, Except Pediatric   1   0   2  12   0     15
+                                                            Umpires, Referees, and Other Sports Officials   0   2   1   8   4     15
+                                                                          General and Operations Managers   1   0   0  12   2     15
+                                                                                         Talent Directors   0   2   5   6   2     15
+                                             Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters  12   1   1   1   0     15
+                                                   Helpers--Installation, Maintenance, and Repair Workers   6   4   1   2   2     15
+                                                                                                   Bakers   2   3   5   2   3     15
+                                                                      Commercial and Industrial Designers   1   0   3   6   5     15
+                              Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters   7   6   2   0   0     15
+                                                           Glass Blowers, Molders, Benders, and Finishers   5   3   0   5   2     15
+                                                                                        Commercial Pilots   1   1   0  12   1     15
+                                                                                          Civil Engineers   0   0   1  14   0     15
+                                                                                        Technical Writers   0   1   2   2  10     15
+                                                                            Motion Picture Projectionists   2   5   3   1   4     15
+                                                                     Grinding and Polishing Workers, Hand   4   8   1   1   1     15
+Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic   0   5   3   5   2     15
+                                                                                Healthcare Social Workers   0   0   7   7   1     15
+                                                                           Health Informatics Specialists   1   0   2  10   2     15
+                                                                                      Gas Plant Operators   2   1   1  11   0     15
+                                                                               Occupational Therapy Aides   5   2   5   2   1     15
+                                                                        Computer User Support Specialists   1   1   5   2   6     15
+                                                                             Operations Research Analysts   0   0   1   3  11     15
+                                                                                  Occupational Therapists   5   0   5   4   1     15
+                                                                                       Medical Assistants   4   2   3   5   1     15
+                                                                                                  Riggers  11   1   0   2   0     14
+                                                                                      Motorboat Operators   6   0   2   6   0     14
+                                               Weighers, Measurers, Checkers, and Samplers, Recordkeeping   1   1   4   4   4     14
+                                                                                                 Bailiffs   9   2   0   3   0     14
+                                                                           Preventive Medicine Physicians   0   0   0  12   2     14
+                                                             Appraisers of Personal and Business Property   1   0   3   8   2     14
+                                                                Interviewers, Except Eligibility and Loan   1   1   5   5   2     14
+                                                                                             Hospitalists   0   1   1  11   1     14
+                                                                             Interpreters and Translators   0   1   4   1   8     14
+                                                                           Derrick Operators, Oil and Gas   9   0   1   4   0     14
+                                                                                     Roof Bolters, Mining   6   2   1   5   0     14
+                                            Administrative Law Judges, Adjudicators, and Hearing Officers   0   0   0  14   0     14
+                                                                                     Political Scientists   0   0   1   7   6     14
+                                                         Farm Equipment Mechanics and Service Technicians   6   3   2   3   0     14
+                                                                                      Software Developers   0   0   1   4   9     14
+                                                               Police Identification and Records Officers   3   1   1   9   0     14
+                                                                                     Robotics Technicians   2   1   3   5   3     14
+                                                                                          Energy Auditors   0   0   7   4   3     14
+                                                                       Farm and Home Management Educators   1   1   6   2   4     14
+                                                                                       Model Makers, Wood   5   3   5   1   0     14
+                                Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers   8   2   0   4   0     14
+                                                           Electrical and Electronic Equipment Assemblers   1   5   1   6   1     14
+                                                                                      Real Estate Brokers   0   1   3  10   0     14
+                                                        Radio Frequency Identification Device Specialists   1   0   4   2   7     14
+                            Electrical and Electronics Installers and Repairers, Transportation Equipment   8   1   2   2   1     14
+                                                                          Biofuels Processing Technicians   1   0   2  11   0     14
+                                       Mining and Geological Engineers, Including Mining Safety Engineers   0   0   0  13   1     14
+                                                                        Recycling and Reclamation Workers   5   0   2   7   0     14
+                                                                                  Agricultural Inspectors   1   0   0  13   0     14
+                                                                                             Taxi Drivers   2   4   3   5   0     14
+                                                                            Medical Appliance Technicians   6   2   1   5   0     14
+                                                                       Automotive Engineering Technicians   2   1   2   7   2     14
+                                                                          Oral and Maxillofacial Surgeons  10   0   0   4   0     14
+                                                                         Wind Energy Development Managers   0   0   0  14   0     14
+                                                                                        Bicycle Repairers   6   4   1   2   1     14
+                                                             Computer and Information Research Scientists   0   0   0   6   8     14
+                                                                                       Geodetic Surveyors   0   0   3   8   3     14
+                                                                                   Statistical Assistants   0   0   3   1  10     14
+                                                  Health Information Technologists and Medical Registrars   0   0   0  12   2     14
+                                                                                       Histotechnologists   4   0   4   5   1     14
+                                                                                      Penetration Testers   1   0   1  11   1     14
+                                                                                           Ship Engineers   5   0   2   5   2     14
+                                                                                       Massage Therapists  10   1   1   1   1     14
+                                                             Automotive and Watercraft Service Attendants   4   4   2   1   3     14
+                                                                                      Nuclear Technicians   0   0   0  14   0     14
+                                                                                   Surgical Technologists   8   0   1   5   0     14
+                                                                             Allergists and Immunologists   2   0   0  11   1     14
+                                                                           Climate Change Policy Analysts   0   0   0   8   6     14
+                                                                                      New Accounts Clerks   0   1   3   9   1     14
+                                                         Manufactured Building and Mobile Home Installers  12   0   1   1   0     14
+                                                                          Obstetricians and Gynecologists   2   0   3   9   0     14
+                                     First-Line Supervisors of Construction Trades and Extraction Workers   0   1   3  10   0     14
+                                                        Floor Layers, Except Carpet, Wood, and Hard Tiles   9   3   2   0   0     14
+                                                                                     Materials Scientists   0   0   5   6   3     14
+                                                                                                  Dancers  11   2   1   0   0     14
+                                                                               Sustainability Specialists   0   1   0   9   4     14
+                                                                              Helpers--Extraction Workers   9   3   0   2   0     14
+                                                                                               Pipelayers   9   0   4   1   0     14
+                                                                                       Parking Attendants   4   5   3   2   0     14
+                                                                                    Opticians, Dispensing   3   3   4   2   2     14
+                                                                                 Food Science Technicians   0   0   3   9   2     14
+                                                          Civil Engineering Technologists and Technicians   1   0   3   8   2     14
+                                                                                          Cost Estimators   1   0   2   3   8     14
+                                                             Gambling and Sports Book Writers and Runners   2   4   0   7   1     14
+                                                                              Brickmasons and Blockmasons  10   1   1   0   2     14
+                                        Agents and Business Managers of Artists, Performers, and Athletes   0   0   5   8   1     14
+                                                                                Watch and Clock Repairers   5   4   2   2   1     14
+                                                                Calibration Technologists and Technicians   2   1   4   3   3     13
+                                                                             Biofuels Production Managers   0   0   1  11   1     13
+                                                                Refuse and Recyclable Material Collectors   5   3   0   3   2     13
+                                                                                     Computer Programmers   0   0   1   2  10     13
+                                                                                   Agricultural Engineers   1   0   0  10   2     13
+                                                                         Customer Service Representatives   0   0   3   5   5     13
+                                                                                     Dietetic Technicians   0   0   6   5   2     13
+                                                                       Solar Energy Installation Managers   1   0   1  10   1     13
+                                                                              Computer Hardware Engineers   0   0   1   8   4     13
+                                                                           Conveyor Operators and Tenders   5   2   1   4   1     13
+                                                               Security and Fire Alarm Systems Installers   4   1   5   2   1     13
+                                                                                          Budget Analysts   0   0   1   8   4     13
+                                                       Switchboard Operators, Including Answering Service   1   1   2   1   8     13
+                                                                         Agricultural Equipment Operators   4   2   1   6   0     13
+                                                                                     Blockchain Engineers   0   0   1   5   7     13
+                                                                              Clinical Neuropsychologists   0   0   7   5   1     13
+         Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel   0   1   1   8   3     13
+                                                                                          Data Scientists   0   0   1   4   8     13
+                                                                                 Cooks, Private Household   5   2   4   0   2     13
+                                                                       Zoologists and Wildlife Biologists   3   1   2   5   2     13
+                                                                          Model Makers, Metal and Plastic   4   4   1   3   1     13
+                                                                              Foundry Mold and Coremakers   6   2   0   5   0     13
+                                                                        Ophthalmic Laboratory Technicians   5   3   2   2   1     13
+                                                                            Emergency Medicine Physicians   2   0   0  11   0     13
+                                                                                               Economists   0   0   2   4   7     13
+                                       Forging Machine Setters, Operators, and Tenders, Metal and Plastic   2   4   1   6   0     13
+                                                                              Aircraft Service Attendants   8   2   0   3   0     13
+                                                 Outdoor Power Equipment and Other Small Engine Mechanics   8   0   3   1   1     13
+                                                                           Industrial Machinery Mechanics   6   2   3   1   1     13
+                                                      Paper Goods Machine Setters, Operators, and Tenders   5   1   3   4   0     13
+                                                                              Food Servers, Nonrestaurant   2   4   2   3   2     13
+                                                                                               Paramedics   8   2   0   2   1     13
+                                                                        Food Scientists and Technologists   0   0   2  10   1     13
+                                                               Medical Scientists, Except Epidemiologists   0   1   0  10   2     13
+                                                               Food Cooking Machine Operators and Tenders   0   3   1   8   1     13
+                                                                                               Archivists   0   0   7   5   1     13
+                                                                                     Pest Control Workers   5   2   1   5   0     13
+                                                                 Magnetic Resonance Imaging Technologists   2   3   2   6   0     13
+                                                                 Fire-Prevention and Protection Engineers   0   0   0  11   2     13
+                                             Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders   1   6   3   2   1     13
+                                                                        Layout Workers, Metal and Plastic   2   2   3   4   2     13
+                                                                                      Light Truck Drivers   4   3   3   3   0     13
+                                                                                          Animal Trainers   9   2   1   0   1     13
+                                                                                     Motorcycle Mechanics  10   1   1   1   0     13
+                                                               Gambling Change Persons and Booth Cashiers   0   2   2   9   0     13
+                           Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic   3   3   2   5   0     13
+                                                         Government Property Inspectors and Investigators   0   1   2   9   1     13
+                                                              Network and Computer Systems Administrators   0   1   2   6   4     13
+                                  Electrical and Electronics Repairers, Powerhouse, Substation, and Relay   3   1   3   6   0     13
+                                                             Metal-Refining Furnace Operators and Tenders   3   3   0   7   0     13
+                                                           Adhesive Bonding Machine Operators and Tenders   1   2   2   6   1     12
+                                                                              Orthotists and Prosthetists   3   1   2   4   2     12
+                                                                                     Pharmacy Technicians   1   0   2   7   2     12
+                                Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation   0   1   1   9   1     12
+                                                                       Media Technical Directors/Managers   0   0   3   8   1     12
+                                                                                       Chemical Engineers   0   0   0  11   1     12
+                                                                                      Crematory Operators   6   1   0   5   0     12
+                                                              Motorboat Mechanics and Service Technicians  10   0   1   1   0     12
+                                                                        Signal and Track Switch Repairers  10   1   0   0   1     12
+                                                                            Slaughterers and Meat Packers   2   1   0   9   0     12
+                                                              Court Reporters and Simultaneous Captioners   0   2   1   9   0     12
+                                                                                      Tool and Die Makers   2   2   3   4   1     12
+                                                                                 Meter Readers, Utilities   1   1   1   5   4     12
+                                                                         Patternmakers, Metal and Plastic   3   3   4   1   1     12
+                                                                                  Patient Representatives   0   0   5   6   1     12
+                                                                           Nuclear Monitoring Technicians   2   0   1   9   0     12
+                                                                                       Neuropsychologists   0   0   3   7   2     12
+                                                            Medical and Clinical Laboratory Technologists   0   0   2  10   0     12
+                                                                          Paralegals and Legal Assistants   0   0   3   9   0     12
+                                                                                         Segmental Pavers   9   1   2   0   0     12
+                                                                              Anesthesiologist Assistants   2   0   2   7   1     12
+                                                              Medical and Clinical Laboratory Technicians   3   0   1   8   0     12
+                                                                                              Orthoptists   1   0   3   6   2     12
+                                                                              Transit and Railroad Police   1   0   0  11   0     12
+                                                                            Dental Laboratory Technicians   6   3   1   2   0     12
+                                                                            Locksmiths and Safe Repairers  10   1   0   0   1     12
+                                                                        Precision Agriculture Technicians   1   1   2   4   4     12
+                                                                         Fabric and Apparel Patternmakers   2   0   7   1   2     12
+                                                       Market Research Analysts and Marketing Specialists   0   0   0   3   9     12
+                                                                           Machine Feeders and Offbearers   1   3   0   5   3     12
+                                                                                  Log Graders and Scalers   4   1   4   3   0     12
+                                                                                               Urologists   3   0   1   8   0     12
+                                                                             Data Warehousing Specialists   0   0   1   6   5     12
+                                                                                     Locomotive Engineers   0   2   0  10   0     12
+                                                                                           Mathematicians   0   0   0   1  11     12
+                                                             Meat, Poultry, and Fish Cutters and Trimmers   5   0   0   7   0     12
+                                                                       Bus Drivers, Transit and Intercity   1   5   1   5   0     12
+                                                                                      Mechanical Drafters   0   1   2   5   4     12
+                                                                                              Dishwashers   3   6   0   0   3     12
+                                                          Legal Secretaries and Administrative Assistants   0   1   1   8   2     12
+                                                                                Hoist and Winch Operators   5   2   2   3   0     12
+                                                                                      Aerospace Engineers   0   0   1   9   2     12
+                                                              Camera and Photographic Equipment Repairers   3   4   3   2   0     12
+                                                                   Electromechanical Equipment Assemblers   2   1   0   6   3     12
+                                 Door-to-Door Sales Workers, News and Street Vendors, and Related Workers   7   2   2   1   0     12
+                                                                                      Aviation Inspectors   0   0   1  10   0     11
+                                                                                     Lighting Technicians   6   0   3   2   0     11
+                                                                      Engine and Other Machine Assemblers   3   1   1   4   2     11
+                                           Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons   4   5   1   1   0     11
+                                                                     Speech-Language Pathology Assistants   0   2   6   3   0     11
+                                                                                    Endoscopy Technicians   6   1   1   2   1     11
+                                                                                      Management Analysts   0   0   3   3   5     11
+                                   Ambulance Drivers and Attendants, Except Emergency Medical Technicians   4   3   1   2   1     11
+                                                         Mental Health and Substance Abuse Social Workers   0   0   6   4   1     11
+                                                                                          Microbiologists   0   1   3   6   1     11
+                                                                            Emergency Medical Technicians   5   0   2   4   0     11
+                                                                         Wind Turbine Service Technicians   6   0   4   1   0     11
+                                                         Gas Compressor and Gas Pumping Station Operators   4   1   0   5   1     11
+                                                                     Private Detectives and Investigators   0   1   1   8   1     11
+                                                                                  Gem and Diamond Workers   4   1   1   1   4     11
+                                                                                            Telemarketers   0   0   0   8   3     11
+                                                                                         Wellhead Pumpers   5   0   1   5   0     11
+                                                                   Customs and Border Protection Officers   4   0   0   7   0     11
+                                                                                              Podiatrists   4   0   1   6   0     11
+                                                                               Family Medicine Physicians   1   0   1   9   0     11
+      Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders   2   3   3   3   0     11
+                                                          Physical Medicine and Rehabilitation Physicians   3   0   2   6   0     11
+                                                                                             Sewers, Hand  10   1   0   0   0     11
+                                                                      Coil Winders, Tapers, and Finishers   2   4   1   3   1     11
+                                                                                     Physician Assistants   4   1   0   6   0     11
+                                                                Shipping, Receiving, and Inventory Clerks   2   1   2   2   4     11
+                                                                                      Personal Care Aides   3   3   3   2   0     11
+                                                                              Medical Equipment Preparers   2   2   2   4   1     11
+                                                              Buyers and Purchasing Agents, Farm Products   0   0   3   7   1     11
+                                                                                       Cooks, Short Order   3   2   4   1   1     11
+                                                                                Butchers and Meat Cutters   5   1   0   4   1     11
+                                                                                     Driver/Sales Workers   2   2   2   4   1     11
+                                                                     Postmasters and Mail Superintendents   0   0   1   9   1     11
+                                                                                 Roustabouts, Oil and Gas   9   0   1   1   0     11
+                                                                                        Dental Assistants   5   1   4   1   0     11
+                                                                                      Facilities Managers   0   0   2   6   3     11
+                                                        Medical Secretaries and Administrative Assistants   0   2   3   6   0     11
+                                                                                                 Chemists   0   0   1  10   0     11
+                                    Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders   0   2   2   5   1     10
+                                                                                      Telephone Operators   1   0   1   5   3     10
+                                                                              Medical Records Specialists   0   0   0  10   0     10
+                                                                        Training and Development Managers   0   0   1   7   2     10
+                                                   Laborers and Freight, Stock, and Material Movers, Hand   2   5   3   0   0     10
+                                                             Insulation Workers, Floor, Ceiling, and Wall   5   3   2   0   0     10
+                                                                                Medical Transcriptionists   0   0   1   9   0     10
+                                                                                            Chiropractors   7   0   0   3   0     10
+                                                                                          Team Assemblers   1   1   3   4   1     10
+                                                             Cardiovascular Technologists and Technicians   2   1   4   1   2     10
+                                                                            Proofreaders and Copy Markers   0   1   2   0   7     10
+                                                                                     Passenger Attendants   2   4   2   2   0     10
+                                                         Computer Numerically Controlled Tool Programmers   1   0   0   4   5     10
+                                                Pesticide Handlers, Sprayers, and Applicators, Vegetation   2   3   1   4   0     10
+                                                                                          Prosthodontists   7   1   0   2   0     10
+                                Postal Service Mail Sorters, Processors, and Processing Machine Operators   3   3   2   1   1     10
+                                                                                            Psychiatrists   0   1   1   7   1     10
+                                                                                        Cytotechnologists   1   1   1   6   1     10
+                                                                                                   Models   4   1   2   0   3     10
+                                                                              Packers and Packagers, Hand   0   2   0   6   2     10
+                                                       Refractory Materials Repairers, Except Brickmasons   7   2   0   1   0     10
+                                                                           Ophthalmic Medical Technicians   2   3   3   2   0     10
+                                                                                       Desktop Publishers   0   2   2   1   5     10
+                                            Electronic Equipment Installers and Repairers, Motor Vehicles   3   3   3   1   0     10
+                                                                           Nuclear Medicine Technologists   1   0   3   6   0     10
+                                                                      Non-Destructive Testing Specialists   1   0   2   7   0     10
+                                                                            Neurodiagnostic Technologists   3   0   1   6   0     10
+                                                                                  Recreational Therapists   0   1   4   5   0     10
+                                                           Audiovisual Equipment Installers and Repairers   5   3   1   1   0     10
+                                                                                            Tax Preparers   0   1   1   7   1     10
+                                                                      Cartographers and Photogrammetrists   1   0   3   2   3      9
+                                                                                               Physicists   0   0   1   4   4      9
+                                       Aerospace Engineering and Operations Technologists and Technicians   3   1   1   4   0      9
+                                                                                   Rock Splitters, Quarry   6   0   0   3   0      9
+                                                                         Prepress Technicians and Workers   1   2   4   1   1      9
+                                                                          Athletes and Sports Competitors   4   2   2   1   0      9
+                                                                                         Brokerage Clerks   0   0   1   4   4      9
+                                                                                        Data Entry Keyers   0   2   1   4   2      9
+                                                                                          Security Guards   3   1   0   4   1      9
+                                                                             Crossing Guards and Flaggers   6   1   0   2   0      9
+                                                                           Insulation Workers, Mechanical   6   2   1   0   0      9
+                                                                                          Credit Analysts   0   0   0   8   1      9
+                                                                                Crane and Tower Operators   4   0   1   4   0      9
+                                                                                  Couriers and Messengers   3   0   5   1   0      9
+                                                                Painting, Coating, and Decorating Workers   2   4   2   1   0      9
+                                                                  Pump Operators, Except Wellhead Pumpers   1   2   1   4   1      9
+                                                                                    Wind Energy Engineers   0   0   0   9   0      9
+                                                          Dispatchers, Except Police, Fire, and Ambulance   0   0   2   6   1      9
+                                                                                        Animal Scientists   0   0   2   4   2      8
+                                                                              Logging Equipment Operators   3   2   2   1   0      8
+                                                                          Public Safety Telecommunicators   0   1   1   4   2      8
+                                                                       Power Distributors and Dispatchers   0   0   1   7   0      8
+                                                                                     Avionics Technicians   4   1   0   3   0      8
+                                                                                             Optometrists   2   0   1   5   0      8
+                                                                                              Geographers   1   0   1   1   5      8
+                                                                                           Pharmacy Aides   2   1   1   3   1      8
+                                                                                            Orthodontists   1   1   0   6   0      8
+                                                                            Sound Engineering Technicians   2   1   4   1   0      8
+                                                                Solar Sales Representatives and Assessors   0   1   1   4   2      8
+                                                                                   Insurance Underwriters   0   0   0   7   0      7
+                                                                                  Air Traffic Controllers   0   0   0   7   0      7
+                                                                                  Hearing Aid Specialists   1   1   4   1   0      7
+                                                                           Subway and Streetcar Operators   2   1   0   4   0      7
+                                                                              Floor Sanders and Finishers   6   1   0   0   0      7
+                                                                                   Farm Labor Contractors   0   1   1   5   0      7
+                                                                       Reinforcing Iron and Rebar Workers   6   0   1   0   0      7
+                                                                            Information Security Analysts   0   0   0   5   2      7
+                                                                                    Histology Technicians   2   1   1   3   0      7
+                                                                                            Travel Agents   0   1   1   2   3      7
+                                                Water and Wastewater Treatment Plant and System Operators   1   1   1   3   0      6
+                                                Gambling Surveillance Officers and Gambling Investigators   0   0   1   4   1      6
+                                                                           Solar Energy Systems Engineers   0   0   1   5   0      6
+                                                                                     Medical Dosimetrists   1   1   1   2   0      5
+                                                                   Industrial Truck and Tractor Operators   1   1   0   3   0      5
+                                                               Graders and Sorters, Agricultural Products   0   0   0   1   4      5
+                                                                                         Dredge Operators   3   0   0   2   0      5
+                                                                        Insurance Appraisers, Auto Damage   0   0   2   2   0      4
+                                                                                    Pile Driver Operators   2   0   1   1   0      4
+                                                                      Aircraft Cargo Handling Supervisors   1   0   0   3   0      4
+                                                                    Special Effects Artists and Animators   0   0   0   3   1      4
+                                                                                               Shampooers   1   1   0   0   1      3
